@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_seedream"
+description = "Seedream 生图 ComfyUI 节点（URL + 图片双参考输入版）：提交任务、轮询状态、下载结果图"
+version = "1.1.0"
+license = { text = "MIT" }
+authors = [{ name = "kimi" }]
+dependencies = ["requests", "Pillow", "numpy", "torch"]
+
+[project.urls]
+Repository = "https://github.com/your-name/comfyui_seedream"
+
+[tool.comfy]
+PublisherId = "your-publisher-id"
+DisplayName = "comfyui_seedream"
+Icon = ""

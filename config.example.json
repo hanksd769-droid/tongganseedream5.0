@@ -1,0 +1,7 @@
+{
+  "app_id": "app_xxxxxxxx",
+  "api_key": "sk-xxxxxxxx",
+  "base_url": "",
+  "poll_interval": 3,
+  "max_wait": 300
+}
